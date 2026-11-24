@@ -1,0 +1,14 @@
+{
+  "title": "Alok Rai",
+  "logo": "ALOK",
+  "system": "ALOK.SYS",
+  "description": "Notes on code, games, product and life.",
+  "url": "https://alokrai.github.io",
+  "github": "alokrai",
+  "categories": [
+    { "key": "tech", "label": "Tech log", "short": "TECH", "blurb": "Code, tools and engineering deep dives." },
+    { "key": "games", "label": "Games & product", "short": "GAMES", "blurb": "How games and products get made, and why some of them work." },
+    { "key": "essays", "label": "Essays", "short": "ESSAY", "blurb": "Longer thoughts on work, life and everything around them." },
+    { "key": "projects", "label": "Projects", "short": "PROJ", "blurb": "Things I've built, with notes on how and why." }
+  ]
+}
